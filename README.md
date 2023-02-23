@@ -1,4 +1,7 @@
 # Netflix-Movies-and-TV-Shows-Clustering
+
+This is the Capstone project which is a part of my Data Science training at AlmaBetter.
+
 # Introduction:
 Netflix, headquartered in California, is a popular subscription streaming service and production firm. According to Statista, Netflix had approximately 220.67 million paid subscribers worldwide as of the second quarter of 2022. It is crucial that they effectively cluster the shows that are hosted on their platform in order to enhance the user experience for its subscribers.
 We will be able to understand the shows that are similar to and different from one another by creating clusters, which may be leveraged to offer the consumers personalized show suggestions depending on their preferences.
